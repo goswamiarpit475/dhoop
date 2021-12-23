@@ -43,8 +43,8 @@
                     <div class="col-sm-6 col-xs-12">
 
                         <ul class="list-unstyled list-inline header-contact">
-                            <li> <i class="fa fa-phone"></i> <a href="tel:">+91 8726039719 </a> </li>
-                             <li> <i class="fa fa-envelope"></i> <a href="mailto:contact@sadaka.org">goswami.arpit475@gmail.com</a> </li>
+                            <li> <i class="fa fa-phone"></i> <a href="tel:">+91-9821489589 </a> </li>
+                             <li> <i class="fa fa-envelope"></i> <a href="mailto:contact@sadaka.org">dhoopfoundation@gmail.com</a> </li>
                        </ul> <!-- /.header-contact  -->
                     </div>
 
@@ -53,10 +53,9 @@
                         <ul class="list-unstyled list-inline header-social">
 
                             <li> <a href="#"> <i class="fa fa-facebook"></i> </a> </li>
-                            <li> <a href="#"> <i class="fa fa-twitter"></i>  </a> </li>
-                            <li> <a href="#"> <i class="fa fa-google"></i>  </a> </li>
+                            <li> <a href="https://twitter.com/dhoopfoundation"> <i class="fa fa-twitter"></i>  </a> </li>
+                            <li> <a href="https://instagram.com/dhoop.foundation"> <i class="fa fa-instagram"></i>  </a> </li>
                             <li> <a href="#"> <i class="fa fa-youtube"></i>  </a> </li>
-                            <li> <a href="#"> <i class="fa fa fa-pinterest-p"></i>  </a> </li>
                        </ul> <!-- /.header-social  -->
                       
                     </div>

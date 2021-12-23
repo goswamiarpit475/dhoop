@@ -258,7 +258,7 @@
 
         <div class="container">
 
-            <h2 class="title-style-1">Our Causes <span class="title-under"></span></h2>
+            <h2 class="title-style-1">Stories that Inspire Us <span class="title-under"></span></h2>
 
             <div class="row">
 
