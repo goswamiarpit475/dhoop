@@ -26,7 +26,8 @@
 
                   <h2 class="carousel-title bounceInDown animated slow">Because they need your help</h2>
                   <h4 class="carousel-subtitle bounceInUp animated slow ">Do not let them down</h4>
-                  <a href="#" class="btn btn-lg btn-secondary hidden-xs bounceInUp animated slow" data-toggle="modal" data-target="#donateModal">DONATE NOW</a>
+                  <!-- <a href="#" class="btn btn-lg btn-secondary hidden-xs bounceInUp animated slow" data-toggle="modal" data-target="#donateModal">DONATE NOW</a> -->
+                  <?php include('razorpay_btn.php'); ?>
 
                 </div> <!-- /.carousel-caption -->
 
@@ -127,7 +128,7 @@
                           <p>Lorem ipsum dolor sit amet consect adipisscin elit proin vel lectus ut eta esami vera dolor sit amet consect</p>
                           
                         </div>
-                        <a href="#" class="btn btn-primary"> Read more </a>
+                        <?php include('razorpay_btn.php'); ?>
                     
                   </div>
                   
@@ -281,7 +282,11 @@
 
                         <div class="btn-holder text-center">
 
-                          <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a>
+                           <!-- <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a>  -->
+
+                           <?php 
+                                include('razorpay_btn.php'); 
+                           ?>
                           
                         </div>
 
@@ -310,7 +315,9 @@
 
                         <div class="btn-holder text-center">
 
-                          <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a>
+                          <!-- <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a> -->
+
+                          <?php include('razorpay_btn.php'); ?>
                           
                         </div>
 
@@ -340,7 +347,9 @@
 
                         <div class="btn-holder text-center">
 
-                          <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a>
+                          <!-- <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a> -->
+
+                          <?php include('razorpay_btn.php'); ?>
                           
                         </div>
 
@@ -369,7 +378,9 @@
 
                         <div class="btn-holder text-center">
 
-                          <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a>
+                          <!-- <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#donateModal"> DONATE NOW</a> -->
+
+                          <?php include('razorpay_btn.php'); ?>
                           
                         </div>
 
