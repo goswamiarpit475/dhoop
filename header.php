@@ -24,6 +24,9 @@
         <!-- Modernizr -->
         <script src="assets/js/modernizr-2.6.2.min.js"></script>
 
+        <!-- PrettyPhoto -->
+        <link rel="stylesheet" href="assets/css/prettyPhoto.css">
+
 
     </head>
 
@@ -73,6 +76,8 @@
                 <div class="navbar-header">
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -87,7 +92,8 @@
                 <div id="navbar" class="navbar-collapse collapse pull-right">
 
                   <ul class="nav navbar-nav">
-
+                    <li><a href="https://rzp.io/l/imj1rPWXb" target="_blank">Donate Now</a></li>
+                    <!-- <li><a class="is-active" href="javascript:void(0);" onclick="onpayclick();">Donate Now</a></li> -->
                     <li><a class="is-active" href="index.php">HOME</a></li>
                     <!-- <li><a href="about.php">ABOUT</a></li> -->
 
