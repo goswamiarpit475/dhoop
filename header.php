@@ -85,7 +85,7 @@
 
                   </button>
                   
-                  <a class="navbar-brand" href="index.php"><img src="assets/images/sadaka-logo.png" alt=""></a>
+                  <a class="navbar-brand" href="index.php"><img src="assets/images/dhoop-logo-red.png" alt=""></a>
                   
                 </div>
 
