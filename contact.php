@@ -9,7 +9,7 @@
 			
 			<h1 class="page-title">CONTACT US <span class="title-under"></span></h1>
 			<p class="page-description">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit Necessitatibus.
+				For any query, please drop a message!!
 			</p>
 			
 		</div>
@@ -76,10 +76,10 @@
 					<div class="contact-items">
 
 						<ul class="list-unstyled contact-items-list">
-							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-map-marker"></i></span> 135 Hay el nahda, Rabat, Morocco</li>
-							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-phone"></i></span> 00 210 25 55  55 11</li>
+							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-map-marker"></i></span> dhoop address here </li>
+							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-phone"></i></span>  +91-9821489589</li>
 
-							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-envelope"></i></span> contact@DHOOP.org</li>
+							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-envelope"></i></span>  dhoopfoundation@gmail.com</li>
 						</ul>
 					</div>
 
@@ -96,9 +96,9 @@
 
 	</div>
 
-	<div id="contact-map" class="contact-map">
+	<!-- <div id="contact-map" class="contact-map">
 		
-	</div>
+	</div> -->
 
 
    <?php

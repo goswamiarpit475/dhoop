@@ -58,7 +58,8 @@
                             <li> <a href="#"> <i class="fa fa-facebook"></i> </a> </li>
                             <li> <a href="https://twitter.com/dhoopfoundation"> <i class="fa fa-twitter"></i>  </a> </li>
                             <li> <a href="https://instagram.com/dhoop.foundation"> <i class="fa fa-instagram"></i>  </a> </li>
-                            <li> <a href="#"> <i class="fa fa-youtube"></i>  </a> </li>
+                            <li> <a href="#" > <i class="fa fa-youtube"></i>  </a> </li>
+                            <li> <button class="btn btn-info"><a href="<?php include('razor_pay_page.php') ?>"  target="_blank">Donate</a></button></li>
                        </ul> <!-- /.header-social  -->
                       
                     </div>
@@ -74,6 +75,7 @@
               <div class="container">
 
                 <div class="navbar-header">
+                  <!-- <button class="navbar-toggle collapsed"><i class="fa fa-inr"></i></button> -->
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -88,24 +90,33 @@
                   <a class="navbar-brand" href="index.php"><img src="assets/images/dhoop-logo-red.png" alt=""></a>
                   
                 </div>
-
+                
                 <div id="navbar" class="navbar-collapse collapse pull-right">
 
                   <ul class="nav navbar-nav">
-                    <li><a href="https://rzp.io/l/imj1rPWXb" target="_blank">Donate Now</a></li>
+                    <!-- <li><a href="https://rzp.io/l/imj1rPWXb" target="_blank">Donate Now</a></li> -->
                     <!-- <li><a class="is-active" href="javascript:void(0);" onclick="onpayclick();">Donate Now</a></li> -->
                     <li><a class="is-active" href="index.php">HOME</a></li>
                     <!-- <li><a href="about.php">ABOUT</a></li> -->
 
                     <li ><a href="#">OUR WORK</a></li>
 
+                    <li class="has-child"><a href="#">MAKE A DIFFERENCE</a>
+
+                      <ul class="submenu">
+                         <li class="submenu-item"><a href="<?php include('razor_pay_page.php') ?>" target="_blank">Donate </a></li>
+                         <li class="submenu-item"><a href="vision.php">Become a volunteer</a></li>
+                         <li class="submenu-item"><a href="our_team.php">Start Dhoop Locally</a></li>
+                      </ul>
+
+                    </li>
 
                     <li class="has-child"><a href="#">WHO WE ARE</a>
 
                       <ul class="submenu">
-                         <li class="submenu-item"><a href="about.php">ABOUT US </a></li>
-                         <li class="submenu-item"><a href="vision.php">VISION AND MISSION</a></li>
-                         <li class="submenu-item"><a href="our_team.php">OUR TEAM </a></li>
+                         <li class="submenu-item"><a href="about.php">About Us</a></li>
+                         <li class="submenu-item"><a href="vision.php">Vision and Mission</a></li>
+                         <li class="submenu-item"><a href="our_team.php">Our Team</a></li>
                       </ul>
 
                     </li>

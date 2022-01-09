@@ -8,11 +8,11 @@
     <div id="homeCarousel" class="carousel slide carousel-home" data-ride="carousel">
 
           <!-- Indicators -->
-          <ol class="carousel-indicators">
+          <!-- <ol class="carousel-indicators">
             <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#homeCarousel" data-slide-to="1"></li>
             <li data-target="#homeCarousel" data-slide-to="2"></li>
-          </ol>
+          </ol> -->
 
           <div class="carousel-inner" role="listbox">
 
@@ -24,10 +24,10 @@
 
                 <div class="carousel-caption">
 
-                  <h2 class="carousel-title bounceInDown animated slow">Because they need your help</h2>
-                  <h4 class="carousel-subtitle bounceInUp animated slow ">Do not let them down</h4>
+                  <h2 class="carousel-title bounceInDown animated slow">DHOOP FOUNDATION</h2>
+                  <h4 class="carousel-subtitle bounceInUp animated slow ">Empowering Rural India</h4>
                   <!-- <a href="#" class="btn btn-lg btn-secondary hidden-xs bounceInUp animated slow" data-toggle="modal" data-target="#donateModal">DONATE NOW</a> -->
-                  <?php include('razorpay_btn.php'); ?>
+                  
 
                 </div> <!-- /.carousel-caption -->
 
@@ -36,7 +36,7 @@
             </div> <!-- /.item -->
 
 
-            <div class="item ">
+           <!--  <div class="item ">
 
               <img src="assets/images/slider/home-slider-2.jpg" alt="">
 
@@ -48,16 +48,16 @@
                   <h4 class="carousel-subtitle bounceInUp animated slow"> So let's do it !</h4>
                   <a href="#" class="btn btn-lg btn-secondary hidden-xs bounceInUp animated" data-toggle="modal" data-target="#donateModal">DONATE NOW</a>
 
-                </div> <!-- /.carousel-caption -->
+                </div>
 
               </div>
 
-            </div> <!-- /.item -->
+            </div> --> <!-- /.item -->
 
 
 
 
-            <div class="item ">
+          <!--   <div class="item ">
 
               <img src="assets/images/slider/home-slider-3.jpg" alt="">
 
@@ -69,15 +69,15 @@
                   <h4 class="carousel-subtitle bounceInUp animated slow">You can make the diffrence !</h4>
                   <a href="#" class="btn btn-lg btn-secondary hidden-xs bounceInUp animated slow" data-toggle="modal" data-target="#donateModal">DONATE NOW</a>
 
-                </div> <!-- /.carousel-caption -->
+                </div> 
 
               </div>
 
-            </div> <!-- /.item -->
+            </div> --> <!-- /.item -->
 
           </div>
 
-          <a class="left carousel-control" href="#homeCarousel" role="button" data-slide="prev">
+         <!--  <a class="left carousel-control" href="#homeCarousel" role="button" data-slide="prev">
             <span class="fa fa-angle-left" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
           </a>
@@ -85,7 +85,7 @@
           <a class="right carousel-control" href="#homeCarousel" role="button" data-slide="next">
             <span class="fa fa-angle-right" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
-          </a>
+          </a> -->
 
     </div><!-- /.carousel -->
 
@@ -275,7 +275,7 @@
                           </div>
                         </div>
 
-                        <h4 class="cause-title"><a href="#">HUNGER AND POVERTY </a></h4>
+                        <h4 class="cause-title"><a href="#">CLOTH DONATION </a></h4>
                         <div class="cause-details">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
                         </div>
@@ -308,7 +308,7 @@
                           </div>
                         </div>
 
-                        <h4 class="cause-title"><a href="#">EDUCATION AND TRAINING</a></h4>
+                        <h4 class="cause-title"><a href="#">HEALTH CHECK-UPs</a></h4>
                         <div class="cause-details">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at eros rutrum turpis viverra elementum semper quis ex. Donec lorem nulla, aliquam quis neque vel, maximus lacinia urna.
                         </div>

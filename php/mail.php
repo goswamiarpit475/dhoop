@@ -72,7 +72,7 @@ if(isset($_POST['email']))
     'X-Mailer: PHP/' . phpversion();
     if (@mail($email_to, $email_subject, $email_message, $headers))
     {
-        echo json_encode(array('success'=>1, 'message'=>'Form submitted successfully.')); 
+        echo json_encode(array('success'=>1, 'message'=>'query submitted successfully.')); 
     }
 
     else 
