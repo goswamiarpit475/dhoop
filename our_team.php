@@ -10,7 +10,7 @@
 			
 			<h1 class="page-title">ABOUT US <span class="title-under"></span></h1>
 			<p class="page-description">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit Necessitatibus.
+				A very dedicated team is working day and night to make it a success.
 			</p>
 			
 		</div>
