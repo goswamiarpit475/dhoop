@@ -3,7 +3,7 @@
 /* =====================================================
  * change this to the email you want the form to send to
  * ===================================================== */
-$email_to = "goswami.arpit475@gmail.com"; 
+$email_to = "dhoopfoundation@gmail.com"; 
 $email_from = "admin@freemocktest.com"; // must be different than $email_from 
 $email_subject = "Contact Form submitted";
 
